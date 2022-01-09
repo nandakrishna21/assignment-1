@@ -1,0 +1,18 @@
+
+
+.flex-child
+{   width: 6px;
+    float: left;
+    border: 1px solid rgb(51, 190, 214);
+    background-color: rgb(42, 238, 130);
+    height: 100%;
+    margin: 1px;
+}
+.center {
+    height: 100%; 
+    overflow: auto;
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    padding-top: 15%;
+  }
